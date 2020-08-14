@@ -1,0 +1,8 @@
+{
+  "name": "yarn-react-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gomdopi/yarn-react-ts.git",
+  "author": "gomdopi <gomdopi@debian.io>",
+  "license": "MIT"
+}
